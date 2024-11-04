@@ -1,7 +1,7 @@
 def q1():
   name = input("Input a word: ")
   print (name)
-
+  
 def q2():
   fir = input("Input you first name: ")
   wrd = "Hello " + (fir)
