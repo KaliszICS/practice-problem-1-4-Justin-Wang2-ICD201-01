@@ -6,13 +6,13 @@ def q1():
 
 def q2():
   name = input("Input you first name: ")
-  print (f"Hello {name}")
+  word = "hello " + (name)
+  print (word)
 
 def q3():
-  name = input("Input you first name: ")
-  name1 = input("Input you last name: ")
-  print(f"{name1}", end = "")
-  print(f" {name}")
+  name = input("Input your first name: ")
+  name1 = input("Input your last name: ")
+  print(f"{name1} {name}")
 
 def q4():
   stu1 = input("Input a student: ")
@@ -22,7 +22,7 @@ def q4():
 
 #Do not edit code below this comment
 
-#q1()
-#q2()
-#q3()
-#q4()
+q1()
+q2()
+q3()
+q4()
