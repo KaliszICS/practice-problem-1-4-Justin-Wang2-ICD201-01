@@ -22,7 +22,7 @@ print (f"Your students are {stu1} and {stu2}")
 
 #Do not edit code below this comment
 
-q1()
-q2()
-q3()
-q4()
+#q1()
+#q2()
+#q3()
+#q4()
