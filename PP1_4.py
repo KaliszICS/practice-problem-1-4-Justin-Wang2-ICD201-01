@@ -5,9 +5,9 @@ def q1():
   print (name)
 
 def q2():
-  name = input("Input you first name: ")
-  word = "hello " + (name)
-  print (word)
+  fir = input("Input you first name: ")
+  wrd = "Hello " + (fir)
+  print (wrd)
 
 def q3():
   name = input("Input your first name: ")
