@@ -1,8 +1,8 @@
 
 
 def q1():
-  num = input("Input a word: ")
-  print (num)
+  name = input("Input a word: ")
+  print (name)
 
 def q2():
   name = input("Input you first name: ")
