@@ -6,7 +6,7 @@ def q1():
 
 def q2():
   name = input("Input you first name: ")
-  word = "Hello " + (name)
+  word = "hello " + (name)
   print (word)
 
 def q3():
