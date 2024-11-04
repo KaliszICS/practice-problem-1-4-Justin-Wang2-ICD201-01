@@ -1,5 +1,3 @@
-
-
 def q1():
   name = input("Input a word: ")
   print (name)
