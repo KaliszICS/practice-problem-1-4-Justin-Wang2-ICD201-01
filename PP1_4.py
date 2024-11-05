@@ -4,7 +4,7 @@ def q1():
 
 
 def q2():
-    name = input("Input you first name: ")
+    name = input("Input your first name: ")
     full = "Hello " + name
     print(full)
 
