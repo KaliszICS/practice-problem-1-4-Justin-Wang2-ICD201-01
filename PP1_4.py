@@ -1,11 +1,10 @@
 def q1():
-  name = input("Input a word: ")
-  print (name)
+  word = input("Input a word: ")
+  print (word)
   
 def q2():
   fir = input("Input you first name: ")
-  wrd = "Hello " + (fir)
-  print (wrd)
+  print (f"Hello {fir}")
 
 def q3():
   name = input("Input your first name: ")
