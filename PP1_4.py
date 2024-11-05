@@ -4,8 +4,9 @@ def q1():
 
 
 def q2():
-    fir = input("Input you first name: ")
-    print(f"Hello {fir}")
+    name = input("Input you first name: ")
+    full = "Hello " + name
+    print(full)
 
 
 def q3():
